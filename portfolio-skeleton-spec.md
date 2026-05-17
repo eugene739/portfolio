@@ -268,7 +268,7 @@ export default function Footer() {
           © 2026 Eugene Syromiatnikov. Built with Next.js + AI.
         </p>
         <div className="flex items-center gap-6 text-small text-ink-500">
-          <a href="mailto:[contact email]" className="hover:text-accent-600">Email</a>
+          <a href="mailto:eugene.syro.builds@gmail.com" className="hover:text-accent-600">Email</a>
           <a href="https://www.linkedin.com/in/eugene-siromyatnikov/" target="_blank" rel="noopener" className="hover:text-accent-600">LinkedIn</a>
         </div>
       </div>
@@ -817,7 +817,7 @@ export default function AboutPage() {
 
         <h2>How to reach me</h2>
         <p>
-          The fastest way is email — <a href="mailto:[contact email]" className="text-accent-600 hover:text-accent-700">contact email here</a>.
+          The fastest way is email — <a href="mailto:eugene.syro.builds@gmail.com" className="text-accent-600 hover:text-accent-700">contact email here</a>.
           I respond within a day.
         </p>
       </div>
@@ -850,13 +850,13 @@ export default function ContactPage() {
 
       <div className="space-y-4">
         <a
-          href="mailto:[contact email]"
+          href="mailto:eugene.syro.builds@gmail.com"
           className="flex items-center gap-4 p-5 border border-paper-edge rounded-xl hover:border-accent-500 hover:shadow-sm transition-all"
         >
           <Mail className="w-6 h-6 text-accent-500" />
           <div>
             <p className="text-body font-medium text-ink-900">Email</p>
-            <p className="text-small text-ink-500">[contact email]</p>
+            <p className="text-small text-ink-500">eugene.syro.builds@gmail.com</p>
           </div>
         </a>
 
@@ -921,7 +921,7 @@ After skeleton is deployed:
 
 - [ ] All four case study pages render without errors
 - [ ] All images load (no broken `<Image>` placeholders)
-- [ ] All `[contact email]` placeholders replaced with the new professional Gmail
+- [ ] All `eugene.syro.builds@gmail.com` placeholders replaced with the new professional Gmail
 - [ ] All `[content goes here]` placeholders replaced with real content from `case-studies-content.md`
 - [ ] noindex meta tag present on every page (view source check)
 - [ ] Mobile layout works (resize browser to 375px width)

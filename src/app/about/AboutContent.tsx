@@ -42,7 +42,7 @@ const copy = {
         <h2>How to reach me</h2>
         <p>
           The fastest way is email —{" "}
-          <a href="mailto:[contact email]">[contact email]</a>. I respond within a day.
+          <a href="mailto:eugene.syro.builds@gmail.com">eugene.syro.builds@gmail.com</a>. I respond within a day.
         </p>
       </>
     ),
@@ -84,7 +84,7 @@ const copy = {
         <h2>Як зі мною звʼязатись</h2>
         <p>
           Найшвидше — електронною поштою:{" "}
-          <a href="mailto:[contact email]">eugene.syro.builds@gmail.com</a>. Відповідаю протягом доби.
+          <a href="mailto:eugene.syro.builds@gmail.com">eugene.syro.builds@gmail.com</a>. Відповідаю протягом доби.
         </p>
       </>
     ),

@@ -11,7 +11,7 @@ export default function Footer() {
           <p className="text-small text-ink-500">{t.footer.built}</p>
           <div className="flex items-center gap-6 text-small text-ink-500">
             <a
-              href="mailto:[contact email]"
+              href="mailto:eugene.syro.builds@gmail.com"
               className="hover:text-accent-600 transition-colors"
             >
               Email

@@ -61,7 +61,7 @@ export default function ContactContent() {
 
       <div className="space-y-4">
         <a
-          href="mailto:[contact email]"
+          href="mailto:eugene.syro.builds@gmail.com"
           className="flex items-center gap-5 p-5 bg-paper rounded-card shadow-soft hover:shadow-card transition-shadow group"
         >
           <span className="w-11 h-11 rounded-full bg-accent-50 flex items-center justify-center shrink-0">
@@ -70,7 +70,7 @@ export default function ContactContent() {
           <div className="flex-1">
             <p className="text-label uppercase text-ink-500 mb-1">{c.emailLabel}</p>
             <p className="text-body text-ink-900 group-hover:text-accent-600 transition-colors">
-              [contact email]
+              eugene.syro.builds@gmail.com
             </p>
           </div>
         </a>

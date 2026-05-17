@@ -135,7 +135,7 @@ Tuberculosis surveillance at the primary care level in Ukraine requires layered 
 
 In my clinic this stack was:
 
-- 14 risk-group Excel sheets × 2 locations (Zaluzhya AZPSM + Bilohirsk AZPSM) = **28 sheets**
+- 14 risk-group Excel sheets × 2 rural outpatient clinics = **28 sheets**
 - 2 detected/contact registries × 2 locations = **4 sheets**
 - 1 fluorography file with ~1,100 patients per location
 - ~5 xlsx files total, plus a folder of MoH order PDFs

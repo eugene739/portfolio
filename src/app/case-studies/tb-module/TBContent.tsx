@@ -159,7 +159,7 @@ function EnBody({ c }: { c: typeof copy.en }) {
       <p>In my clinic this stack was:</p>
       <ul>
         <li>
-          14 risk-group Excel sheets × 2 locations (Zaluzhya AZPSM + Bilohirsk AZPSM) ={" "}
+          14 risk-group Excel sheets × 2 rural outpatient clinics ={" "}
           <strong>28 sheets</strong>
         </li>
         <li>2 detected/contact registries × 2 locations = <strong>4 sheets</strong></li>
@@ -343,7 +343,7 @@ function UkBody({ c }: { c: typeof copy.uk }) {
       <p>У моїй амбулаторії стек був такий:</p>
       <ul>
         <li>
-          14 Excel-таблиць груп ризику × 2 локації (АЗПСМ Залужжя + АЗПСМ Білогірʼя) ={" "}
+          14 Excel-таблиць груп ризику × 2 амбулаторії у сільській місцевості ={" "}
           <strong>28 таблиць</strong>
         </li>
         <li>2 реєстри виявлених/контактних × 2 локації = <strong>4 таблиці</strong></li>
