@@ -2,7 +2,8 @@ import type { Locale } from "./types";
 
 export type Dict = {
   nav: { work: string; about: string; contact: string };
-  cta: { seeWork: string; aboutMe: string };
+  cta: { seeWork: string; aboutMe: string; downloadCv: string };
+  cvHref: string;
   selectedWork: string;
   fourProducts: string;
   workSubtitle: string;
@@ -27,7 +28,8 @@ export type Dict = {
 export const dict: Record<Locale, Dict> = {
   en: {
     nav: { work: "Work", about: "About", contact: "Contact" },
-    cta: { seeWork: "See work", aboutMe: "About me" },
+    cta: { seeWork: "See work", aboutMe: "About me", downloadCv: "Download CV" },
+    cvHref: "/cv/CV_Eugene_EN.pdf",
     selectedWork: "Selected work",
     fourProducts: "Four products in production.",
     workSubtitle:
@@ -56,7 +58,8 @@ export const dict: Record<Locale, Dict> = {
   },
   uk: {
     nav: { work: "Роботи", about: "Про мене", contact: "Контакти" },
-    cta: { seeWork: "Дивитися роботи", aboutMe: "Про мене" },
+    cta: { seeWork: "Дивитися роботи", aboutMe: "Про мене", downloadCv: "Завантажити CV" },
+    cvHref: "/cv/CV_Eugene_UA.pdf",
     selectedWork: "Вибрані роботи",
     fourProducts: "Чотири продукти в продакшені.",
     workSubtitle:
