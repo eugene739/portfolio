@@ -85,7 +85,7 @@ export const dict: Record<Locale, Dict> = {
       regulatoryPending: "Працює · Очікує регуляторного дозволу",
     },
     footer: {
-      built: "© 2026 Євген Сиром’ятников. Збудовано на Next.js + AI.",
+      built: "© 2026 Євген Сиромятников. Збудовано на Next.js + AI.",
     },
     email: { copy: "Копіювати email", copied: "Скопійовано" },
   },
